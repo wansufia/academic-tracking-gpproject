@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>Add Note</title>
-    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 

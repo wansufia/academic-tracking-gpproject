@@ -2,14 +2,15 @@
 <html>
 <head>
     <title>Login</title>
-    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-<h2>Academic Advising & Progress Tracking</h2>
+<div class="page-title-wrap">
+    <h1>Academic Advising & Progress Tracking</h1>
+</div>
 
 <div class="container">
-    <p><b>Final Year Project (FYP) Student Progress System</b></p>
+    <h2>Final Year Project (FYP) Student Progress System</h2>
 
     <h3>Select Login Role</h3>
 

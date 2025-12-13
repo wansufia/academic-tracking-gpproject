@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>Register New Account</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 
@@ -32,7 +31,7 @@
 
     </form>
 
-    <a href="homepage.jsp">Back to Homepage</a>
+    <a href="login.jsp">Back to Homepage</a>
 
 </div>
 

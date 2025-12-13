@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Student Login</title>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 
@@ -22,7 +21,7 @@
         <button type="submit" class="btn">Login</button>
     </form>
 
-    <a href="homepage.jsp">Back to Homepage</a>
+    <a href="login.jsp">Back to Homepage</a>
 
 </div>
 

@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>My Project</title>
-    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 

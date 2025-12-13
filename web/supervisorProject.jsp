@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>Student Project Details</title>
-    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
