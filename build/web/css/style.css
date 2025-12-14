@@ -1,0 +1,122 @@
+/* ===== Global Layout ===== */
+body {
+    font-family: Arial, sans-serif;
+    background: #eef2f7;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h2, h3 {
+    color: #333;
+    margin-top: 0;
+}
+
+.subtitle {
+    color: #666;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+/* ===== Container Card ===== */
+.container {
+    background: #ffffff;
+    padding: 30px;
+    margin: 50px auto;
+    width: 60%;
+    max-width: 700px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    text-align: center;
+}
+
+/* ===== Navigation Bar ===== */
+nav {
+    background: #4A90E2;
+    padding: 14px 20px;
+}
+
+nav a {
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* ===== Buttons ===== */
+.btn, button {
+    background: #4A90E2;
+    color: white;
+    padding: 12px 18px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    margin: 8px 0;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.25s ease;
+}
+
+.btn:hover, button:hover {
+    background: #357ABD;
+    transform: translateY(-2px);
+}
+
+.small-link {
+    display: block;
+    margin-top: 12px;
+    font-size: 14px;
+    color: #4A90E2;
+    text-decoration: none;
+}
+
+.small-link:hover {
+    text-decoration: underline;
+}
+
+/* ===== Form Inputs ===== */
+input, textarea, select {
+    width: 94%;
+    padding: 10px;
+    margin-top: 6px;
+    margin-bottom: 18px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+    transition: border 0.2s ease;
+}
+
+input:focus, textarea:focus, select:focus {
+    border-color: #4A90E2;
+    outline: none;
+}
+
+/* ===== Tables ===== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    margin-top: 20px;
+}
+
+table th {
+    background: #4A90E2;
+    color: white;
+    padding: 12px;
+    font-size: 15px;
+    text-align: left;
+}
+
+table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+}
